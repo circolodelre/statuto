@@ -18,7 +18,9 @@
 
 ## TITOLO IV: ORGANI SOCIALI 
 
-**(Art.8)** Gli organi dell’associazione sono: (a) l’Assemblea Generale degli Associati; (b) il Consiglio Direttivo; (c) il Collegio Arbitrale. Il Consiglio Direttivo rimane in carica fino a dimissioni, revoca o nuova nomina da parte dell’Assemblea Generale degli Associati. TITOLO V: ASSEMBLEA - 
+**(Art.8)** Gli organi dell’associazione sono: (a) l’Assemblea Generale degli Associati; (b) il Consiglio Direttivo; (c) il Collegio Arbitrale. Il Consiglio Direttivo rimane in carica fino a dimissioni, revoca o nuova nomina da parte dell’Assemblea Generale degli Associati. 
+
+## TITOLO V: ASSEMBLEA
 
 **(Art.9)** L’Assemblea Generale degli Associati è costituita da tutti gli associati di tutte le categorie in regola con i versamenti delle quote sociali, è convocata dal Consiglio Direttivo almeno una volta all’anno entro quattro mesi dalla chiusura dell’esercizio, o quando ne facciamo richiesta almeno 1/5 degli associati, mediante comunicazione scritta personale da spedirsi per lettera, facsimile e-mail o telegramma almeno 10 giorni prima della data fissata ed avviso affisso presso la sede sociale, e dovrà contenere il giorno, l’ora, il luogo e l’ordine del giorno. L’Assemblea potrà essere convocata anche in sede diversa della sede sociale sia in prima sia in seconda convocazione. 
 
